@@ -1,0 +1,32 @@
+/* Copyright (C) 2026 Chijok <chijok2311@outlook.com> */
+/* SPDX-License-Identifier: GPL-3.0-only */
+
+:root { font-family: 'Segoe UI', sans-serif; color: #e9edf2; background: #101216; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, select, input { font: inherit; }
+button { cursor: pointer; }
+
+* {
+	scrollbar-color: #3a4049 #15171c;
+	scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: #15171c;
+}
+
+::-webkit-scrollbar-thumb {
+	border: 2px solid #15171c;
+	border-radius: 8px;
+	background: #3a4049;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #59616d;
+}

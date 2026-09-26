@@ -1,0 +1,10 @@
+<!-- Copyright (C) 2026 Chijok <chijok2311@outlook.com> -->
+<!-- SPDX-License-Identifier: GPL-3.0-only -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="56" fill="#9de870"/>
+  <g fill="none" stroke="#101216" stroke-linecap="round" stroke-linejoin="round" stroke-width="22">
+    <path d="M50 132a78 78 0 0 1 156 0"/>
+    <path d="M50 132v42a22 22 0 0 0 22 22h12v-82H72a22 22 0 0 0-22 22Z"/>
+    <path d="M206 132v42a22 22 0 0 1-22 22h-12v-82h12a22 22 0 0 1 22 22Z"/>
+  </g>
+</svg>
